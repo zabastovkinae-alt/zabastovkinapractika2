@@ -1,0 +1,5 @@
+yolov8n-seg.pt
+input.mp4
+frames/
+out_det/
+out_seg/
